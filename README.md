@@ -135,6 +135,51 @@ MyBeacon pushed me to think beyond implementing individual features and consider
 <br/>
 
 ---
+<br/>
+
+---
+
+### 🔬 Attention Reallocation for Code Understanding
+#### 🧠 Undergraduate Research — UT Dallas RIDE Program
+
+> Undergraduate research exploring how attention mechanisms in language models can be analyzed and visualized to better understand how models interpret source code.
+
+**Research Focus**
+
+Modern language models assign different levels of attention to tokens when processing source code. Our research explored **attention reallocation for code understanding and software engineering tasks**, investigating how model attention can help reveal which portions of code are most significant during program comprehension.
+
+**My Work**
+- 🔬 Conducted undergraduate research as a **RIDE mentee** under the guidance of **Prof. Tien N. Nguyen**
+- 🧠 Investigated **attention mechanisms and token importance** in language models for source code
+- 💻 Developed experiments using transformer-based tokenization and attention scores
+- 🎨 Built an attention visualization prototype that maps token-level attention scores back to source code
+- 📊 Generated interactive HTML visualizations to highlight how attention is distributed across different portions of a program
+- 🧩 Explored applications of attention analysis to **code understanding and software engineering tasks**
+- 📚 Worked within a research area connected to ongoing work in **AI for Software Engineering and code intelligence**
+
+**Research Areas**
+
+`AI for Software Engineering` · `Code Understanding` · `Transformers` · `Attention Mechanisms` · `NLP` · `Python`
+
+**Research Context**
+
+This work was completed as part of the **Fall 2025 Research, Inquiry, Design Experience (RIDE)** at The University of Texas at Dallas.
+
+**Advisor:** Prof. Tien N. Nguyen  
+**Mentor:** Jack Le
+
+The research builds on broader work investigating how attention mechanisms can identify important information within source code and improve the efficiency and interpretability of AI models for software engineering.
+
+<p>
+  <a href="https://github.com/NietZteiN/AttnRideF2025">
+    <img src="https://img.shields.io/badge/View%20Research%20Repository-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="Research Repository"/>
+  </a>
+  <a href="https://github.com/NietZteiN/AttnRideF2025/tree/main/aksitha">
+    <img src="https://img.shields.io/badge/View%20My%20Research-F8BBD0?style=for-the-badge&logo=github&logoColor=4a0e2c" alt="Aksitha Research"/>
+  </a>
+</p>
+
+<br/>
 
 ### 🏡 Homebuyer Readiness Platform
 #### 🏠 HackUTD Project
