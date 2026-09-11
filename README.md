@@ -12,9 +12,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/github/followers/aksithavijay?label=Followers&style=for-the-badge&color=EF93C4&labelColor=4a0e2c" alt="followers"/>
-<img src="https://img.shields.io/github/stars/aksithavijay?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=4a0e2c" alt="stars"/>
-<img src="https://komarev.com/ghpvc/?username=aksithavijay&label=Profile+Views&style=for-the-badge&color=FF69B4&labelColor=4a0e2c" alt="views"/>
+<img src="https://img.shields.io/github/followers/aksithavijay?label=Followers&style=for-the-badge&color=EF93C4&labelColor=4a0e2c" alt="Followers"/>
+<img src="https://img.shields.io/github/stars/aksithavijay?label=Stars&style=for-the-badge&color=F8BBD0&labelColor=4a0e2c" alt="Stars"/>
+<img src="https://komarev.com/ghpvc/?username=aksithavijay&label=Profile+Views&style=for-the-badge&color=FF69B4&labelColor=4a0e2c" alt="Profile Views"/>
 
 </div>
 
@@ -28,15 +28,16 @@ I'm interested in the intersection of **software engineering, technology, and bu
 
 I enjoy working across the full problem-solving process: **understanding a problem, defining requirements, designing a solution, building the technology behind it, analyzing results, and thinking about how the final product serves its users.**
 
-My experience spans **software engineering, applied AI, full-stack development, data analytics, and product-focused development**, giving me the opportunity to approach technical problems from both an engineering and business perspective.
+My experience spans **software engineering, applied AI, full-stack development, data analytics, undergraduate research, and product-focused development**, allowing me to approach technical problems from both an engineering and business perspective.
 
 - 💻 Interested in **Software Engineering, Product Engineering & Technology**
 - 🎓 Studying **Computer Science + Business Administration** at UT Dallas
 - 🏆 **1st Place — WEHack 2025 General Track** for LaneBot
 - 💼 Experience in **Data Analytics + Generative AI**
 - 🤖 Built **MyBeacon AI** during my Data Analytics + GenAI internship
+- 🔬 Undergraduate researcher in **AI for Software Engineering & Program Comprehension**
+- 📄 Contributed to research efforts supporting a **2026 publication on human program comprehension**
 - 📊 Experience developing **data analytics dashboards and business insights**
-- 🔬 Interested in applying **AI and data to practical software products**
 - 📫 Reach me at **vijayraj.aksitha@gmail.com**
 - ⚡ Fun fact: **I can solve a Rubik's Cube in under 60 seconds**
 
@@ -77,7 +78,7 @@ Our team built **LaneBot**, a mobile driving assistant that uses a smartphone ca
 
 🏆 **Awarded 1st Place in the General Track at WEHack 2025.**
 
-Building LaneBot challenged us to turn an ambitious idea into a functional product within a hackathon environment while balancing **technical feasibility, user experience, time constraints, and product value**.
+Building LaneBot challenged our team to turn an ambitious idea into a functional product within a hackathon environment while balancing **technical feasibility, user experience, time constraints, and product value**.
 
 <p>
   <a href="https://github.com/aksithavijay/LaneBot">
@@ -105,14 +106,14 @@ I developed **MyBeacon AI** during my **Data Analytics + Generative AI internshi
 Rather than relying only on a general-purpose chatbot, MyBeacon uses university-specific information to provide responses grounded in actual academic resources.
 
 **What I Built**
-- 🎯 Designed the product around real student advising and academic-planning pain points
+- 🎯 Designed the product around student advising and academic-planning pain points
 - 📚 Built a **Retrieval-Augmented Generation (RAG)** pipeline using university-specific documents
 - 🧠 Integrated an LLM to generate responses grounded in retrieved academic information
 - 💻 Developed a full-stack architecture connecting the frontend, application backend, and AI services
 - 🗃️ Used vector search and embeddings to retrieve relevant information from academic documents
 - 🛡️ Designed the system to reduce unsupported AI responses and improve reliability
 - 🔧 Identified limitations in retrieving complex degree-plan information and iterated on the retrieval architecture
-- 📅 Explored opportunities for personalized study planning and multi-semester academic planning
+- 📅 Explored personalized study planning and multi-semester academic planning
 
 **Architecture**
 
@@ -135,51 +136,61 @@ MyBeacon pushed me to think beyond implementing individual features and consider
 <br/>
 
 ---
-<br/>
 
----
+### 🔬 Attention Reallocation & Program Comprehension
+#### 🧠 Undergraduate Research — UT Dallas RIDE
 
-### 🔬 Attention Reallocation for Code Understanding
-#### 🧠 Undergraduate Research — UT Dallas RIDE Program
-
-> Undergraduate research exploring how attention mechanisms in language models can be analyzed and visualized to better understand how models interpret source code.
+> Undergraduate research exploring attention mechanisms, code structure, and program comprehension within AI for Software Engineering.
 
 **Research Focus**
 
-Modern language models assign different levels of attention to tokens when processing source code. Our research explored **attention reallocation for code understanding and software engineering tasks**, investigating how model attention can help reveal which portions of code are most significant during program comprehension.
+I conducted undergraduate research in **AI for Software Engineering and program comprehension** as part of the UT Dallas Research, Inquiry, Design Experience (RIDE), working under **Prof. Tien N. Nguyen** and mentor **Jack Le**.
+
+My project focused on **attention reallocation**, exploring how transformer-based models distribute attention across source-code tokens and how these patterns can be analyzed and visualized for code-understanding tasks.
 
 **My Work**
-- 🔬 Conducted undergraduate research as a **RIDE mentee** under the guidance of **Prof. Tien N. Nguyen**
-- 🧠 Investigated **attention mechanisms and token importance** in language models for source code
+- 🔬 Conducted research as an undergraduate **RIDE mentee**
+- 🧠 Investigated **attention reallocation and token importance** for source-code understanding
 - 💻 Developed experiments using transformer-based tokenization and attention scores
-- 🎨 Built an attention visualization prototype that maps token-level attention scores back to source code
-- 📊 Generated interactive HTML visualizations to highlight how attention is distributed across different portions of a program
-- 🧩 Explored applications of attention analysis to **code understanding and software engineering tasks**
-- 📚 Worked within a research area connected to ongoing work in **AI for Software Engineering and code intelligence**
+- 🎨 Built an attention visualization prototype mapping token-level attention scores back to source code
+- 📊 Generated HTML-based visualizations showing how model attention is distributed across portions of a program
+- 🧩 Explored connections between model attention, code structure, and **program comprehension**
+- 🤝 Collaborated within a research environment focused on **AI for Software Engineering and human code understanding**
 
 **Research Areas**
 
-`AI for Software Engineering` · `Code Understanding` · `Transformers` · `Attention Mechanisms` · `NLP` · `Python`
+`AI for Software Engineering` · `Program Comprehension` · `Transformers` · `Attention Mechanisms` · `NLP` · `Python`
 
-**Research Context**
+#### 📄 Related Research Publication
 
-This work was completed as part of the **Fall 2025 Research, Inquiry, Design Experience (RIDE)** at The University of Texas at Dallas.
+My undergraduate research contributed to a broader research effort that supported subsequent work on **human program comprehension and code obfuscation**.
+
+**The Effect of Code Obfuscation on Human Program Comprehension**  
+*Anh H. N. Nguyen, Jack Le, Ilse Lahnstein Coronado, Tien N. Nguyen — 2026*
+
+The research investigates how different forms of code obfuscation affect programmers' ability to understand and reason about source code.
+
+My work as a mentee contributed to the broader research exploration surrounding **program comprehension, attention, and how developers reason about source code**.
 
 **Advisor:** Prof. Tien N. Nguyen  
-**Mentor:** Jack Le
-
-The research builds on broader work investigating how attention mechanisms can identify important information within source code and improve the efficiency and interpretability of AI models for software engineering.
+**Mentor:** Jack Le  
+**Program:** UT Dallas RIDE — Fall 2025
 
 <p>
   <a href="https://github.com/NietZteiN/AttnRideF2025">
     <img src="https://img.shields.io/badge/View%20Research%20Repository-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="Research Repository"/>
   </a>
   <a href="https://github.com/NietZteiN/AttnRideF2025/tree/main/aksitha">
-    <img src="https://img.shields.io/badge/View%20My%20Research-F8BBD0?style=for-the-badge&logo=github&logoColor=4a0e2c" alt="Aksitha Research"/>
+    <img src="https://img.shields.io/badge/View%20My%20Research-F8BBD0?style=for-the-badge&logo=github&logoColor=4a0e2c" alt="My Research"/>
+  </a>
+  <a href="https://arxiv.org/abs/2603.07668">
+    <img src="https://img.shields.io/badge/Read%20Paper-EF93C4?style=for-the-badge&logo=arxiv&logoColor=white" alt="Research Paper"/>
   </a>
 </p>
 
 <br/>
+
+---
 
 ### 🏡 Homebuyer Readiness Platform
 #### 🏠 HackUTD Project
@@ -198,7 +209,7 @@ We developed a platform focused on translating financial information into a more
 - 🏠 Designed the application around a real-world homebuying use case
 - 📊 Evaluated key factors affecting homebuyer readiness
 - 💡 Transformed user inputs into understandable recommendations
-- 👥 Focused on making complex financial considerations more accessible to users
+- 👥 Focused on making complex financial considerations more accessible
 - 💻 Combined technical implementation with a user-focused financial problem
 
 **Focus**
@@ -219,11 +230,11 @@ We developed a platform focused on translating financial information into a more
 
 My experience in **Data Analytics + Generative AI** has also given me the opportunity to work with data from a business perspective — transforming raw information into insights that can support decision-making.
 
-I've worked with tools including **SQL, Excel, Python, and Power BI** to analyze data and develop dashboards that communicate important trends and metrics clearly.
+I've worked with **SQL, Excel, Python, and Power BI** to analyze data and develop dashboards that communicate important trends and metrics clearly.
 
 ### 📈 Dashboard Portfolio — Coming Soon
 
-I'm currently preparing several of my data analytics and dashboard projects for GitHub, including work focused on:
+I'm currently preparing my data analytics and dashboard work for GitHub, including projects involving:
 
 - 📊 **Interactive Power BI dashboards**
 - 🗄️ **SQL-based data analysis**
@@ -310,10 +321,12 @@ I'm currently preparing several of my data analytics and dashboard projects for 
 
 | | Achievement |
 |:---:|:---|
-| 🥇 | **1st Place — WEHack 2025 General Track** |
+| 🥇 | **1st Place — WEHack 2025 General Track** — LaneBot |
+| 🔬 | **Undergraduate Research — AI for Software Engineering** |
+| 📄 | **Research Contributor — 2026 Program Comprehension Publication** |
 | 💼 | **Data Analytics + Generative AI Internship Experience** |
 | 🤖 | **Built MyBeacon AI during Data Analytics + GenAI Internship** |
-| 🔬 | **Undergraduate Research in AI/ML for Software Engineering & Security** |
+| 📊 | **Data Analytics & Business Intelligence Experience** |
 | 🎓 | **Computer Science + Business Administration @ UT Dallas** |
 
 </div>
