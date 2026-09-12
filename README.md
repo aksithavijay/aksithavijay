@@ -136,6 +136,52 @@ MyBeacon pushed me to think beyond implementing individual features and consider
 <br/>
 
 ---
+<br/>
+
+---
+
+### 🧭 PathPilot — Employee Training & Onboarding Platform
+#### 💻 Software Engineering · Team Project
+
+> An AI-assisted employee training platform designed through the full software development lifecycle, from requirements and system modeling to implementation, testing, and deployment planning.
+
+**The Problem**
+
+Employee onboarding systems often spread training, assessments, progress tracking, and support across disconnected tools, making it harder for employees to learn and for managers to monitor progress.
+
+**Our Solution**
+
+Our team designed and developed **PathPilot**, a centralized training platform with role-based experiences for employees, managers, and customer service representatives.
+
+**My Contributions**
+- 📋 Developed **functional/non-functional requirements and user stories**
+- 🧩 Designed **use case, sequence, context, and UML diagrams**
+- 🎨 Created wireframes for **employee, manager, and training-module experiences**
+- 💻 Contributed to **employee and manager dashboard development**
+- 🧪 Developed **test cases and requirements traceability documentation**
+- 🏗️ Contributed to implementation planning and **software evolution strategy**
+- 📚 Helped maintain the project's Software Engineering Design documentation
+
+**Engineering Lifecycle**
+
+`Requirements` → `System Modeling` → `Architecture` → `Implementation` → `Testing` → `Deployment Planning` → `Evolution`
+
+**Tech**
+
+`React` · `JavaScript` · `React Router` · `CSS` · `Git` · `GitHub Actions` · `Software Testing` · `UML`
+
+<p>
+  <a href="https://github.com/aksithavijay/PathPilot-AI">
+    <img src="https://img.shields.io/badge/View%20PathPilot-EF93C4?style=for-the-badge&logo=github&logoColor=white" alt="PathPilot Repository"/>
+  </a>
+  <a href="https://github.com/aksithavijay/PathPilot-AI/blob/main/docs/CASE_STUDY.md">
+    <img src="https://img.shields.io/badge/Engineering%20Case%20Study-F8BBD0?style=for-the-badge&logo=readme&logoColor=4a0e2c" alt="PathPilot Engineering Case Study"/>
+  </a>
+</p>
+
+<br/>
+
+---
 
 ### 🔬 Attention Reallocation & Program Comprehension
 #### 🧠 Undergraduate Research — UT Dallas RIDE
